@@ -3,4 +3,11 @@
 
 축구매치 사이트를 웹을 spring으로 구현했습니다.
 
+server: Apach Tomcat
+javaVer: 1.8
+SpringFramWork Ver: 4.1.7
+ojdbc6: 12.1.0.2
+json: 2.5.4
+
+
 감사합니다.
