@@ -1,7 +1,7 @@
 # SoccerM
 6개월 국비과정에서 만든 프로젝트 입니다.
 
-축구매치 사이트를 웹을 spring으로 구현했습니다.
+축구매치 사이트를 구현했습니다.
 
 server: Apach Tomcat
 java Ver: 1.8
