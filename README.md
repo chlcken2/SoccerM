@@ -4,11 +4,11 @@ UI는 부트스트랩에서 가져와 기능 구현 위주로 개발 하였습�
 
 로그인, 비밀번호 찾기, 팀 매치, 용병 매치, 리뷰 기능, 평점 기능, 회원 관리, 공지사항, 관리자 페이지 등을 구현 했습니다.  
 
-Server: Apach Tomcat
-JAVA 1.8
-Spring Framework 4.1.7
-ojdbc6: 12.1.0.2
-json: 2.5.4
+Server: Apach Tomcat  
+JAVA 1.8  
+Spring Framework 4.1.7  
+ojdbc6: 12.1.0.2  
+json: 2.5.4 
 
 
 
